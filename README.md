@@ -1,6 +1,6 @@
 # Cybersecurity
  
-#### File Integrity System Read Me
+#### File Integrity System
 
 ###### This file integrity system was designed and implemented as part of a comprehensive cybersecurity project aimed at ensuring the integrity of critical files on company servers. The system was developed to utilize advanced hashing algorithms and regularly check for changes or modifications to files, alerting the cybersecurity team of any potential breaches or unauthorized access attempts.
 
